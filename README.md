@@ -29,7 +29,7 @@ An AI learner with ideals and aspirations &nbsp;
 
 - 🔭 I’m currently studing in the Joint-Program at **<a href="https://www.bupt.edu.cn/" target="blank">Beijing University of Posts and Telecommunications (BUPT)</a>** & **<a href="https://www.qmul.ac.uk/" target="blank">Queen Mary University of London (QMUL)</a>**.
 
-- 🌱 I’m currently learning -> **AI, Data mining, machine learning, NLP ...**
+- 🌱 I’m currently learning -> **AI, Data mining, ML, NLP ...**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
