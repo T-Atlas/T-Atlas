@@ -27,7 +27,9 @@ An AI learner with ideals and aspirations &nbsp;
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently studing in the Joint-Program at **<a href="https://www.bupt.edu.cn/" target="blank">Beijing University of Posts and Telecommunications (BUPT)</a>** & **<a href="https://www.qmul.ac.uk/" target="blank">Queen Mary University of London (QMUL)</a>**.
+- 🔭 I’m currently studing at **<a href="http://www.ict.cas.cn/" target="blank">Institute of Computing Technology, Chinese Academy of Sciences(CAS)</a>** & **<a href="https://www.ucas.ac.cn/" target="blank">University of Chinese Academy of Sciences(UCAS)</a>**.
+ 
+- 🔭 I graduated with a bachelor's degree from the Joint-Program at **<a href="https://www.bupt.edu.cn/" target="blank">Beijing University of Posts and Telecommunications (BUPT)</a>** & **<a href="https://www.qmul.ac.uk/" target="blank">Queen Mary University of London (QMUL)</a>**.
 
 - 🌱 I’m currently learning -> **AI, Data mining, ML, NLP ...**
 
