@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 -->
-<h1 align="center">Hi there 👋, I'm <a href="https://github.com/T-Atlas" target="blank">
+<h1 align="center">Hi there 👋, I'm <a href="https://t-atlas.github.io" target="blank">
 Lian Junhong</a></h1>
 <h3 align="center">
 An AI learner with ideals and aspirations &nbsp;
